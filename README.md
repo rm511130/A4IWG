@@ -3,7 +3,7 @@ Physna Training Material for A4IWG Training (December 2024)
 
 ## Powerpoint Slides 1 ~ 9
 
-[A4IWG Training Dec 2024 - Pages 1 to 9.pptx](https://github.com/user-attachments/files/17969809/A4IWG.Training.Dec.2024.-.Pages.1.to.9.pptx)
+[A4IWG.Training.Dec.2024.-.Pages.1.to.9.pptx](https://github.com/user-attachments/files/17969889/A4IWG.Training.Dec.2024.-.Pages.1.to.9.pptx)
 
 ## Image you can download for Photo-2-3D Search Exercise
 
