@@ -23,4 +23,6 @@ Physna Training Material for A4IWG Training (December 2024)
 
 ## 3D File Example
 
+This file is actually a .STL file renamed to .TXT, so it needs to be renamed before it is used:
+
 [bolt m8x16 (1).txt](https://github.com/user-attachments/files/18128319/bolt.m8x16.1.txt)
